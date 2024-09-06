@@ -21,4 +21,5 @@ This repository includes the following components:
 
 The purpose of this project is to demonstrate a basic Python program with a function called add(x, y) that takes two numbers as input. It rounds the first number up, rounds the second number down, and then returns their sum. The function is tested in the test_main.py file to ensure it works as expected.
 
+![requirements](image.jpg)
 
