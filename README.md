@@ -1,26 +1,24 @@
 [![CI](https://github.com/nogibjj/ailina_aniwan_project_1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/ailina_aniwan_project_1/actions/workflows/hello.yml)
 
 
-# ailina_aniwan_project_1
+# IDS706 First assignment - Ailina Aniwan
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+This repository is used for my first Data Engineering assignment in IDS 706. It serves as a template for future assignments in this course.
 
-Things included are:
+This repository includes the following components:
+
+* `.devcontainer`
 
 * `Makefile`
 
-* `Pytest`
+* `requirements.txt`
 
-* `pandas`
+* `README.md` 
 
-* `Pylint`
+* `githubactions` 
 
 * `Dockerfile`
 
-* `GitHub copilot`
+The purpose of this project is to demonstrate a basic Python program with a function called add(x, y) that takes two numbers as input. It rounds the first number up, rounds the second number down, and then returns their sum. The function is tested in the test_main.py file to ensure it works as expected.
 
-* `jupyter` and `ipython` 
 
-* A base set of libraries for devops and web
-
-* `githubactions` 
