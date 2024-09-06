@@ -1,6 +1,4 @@
-def add(x, y):
-    return x + y
+import math
 
-
-result = add(1, 2)
-print(f"This is the sum: 1, 2, {result}")
+def add(x,y):
+    return math.ceil(x) + math.floor(y)
