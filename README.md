@@ -1,7 +1,9 @@
 [![CI](https://github.com/nogibjj/ailina_aniwan_project_1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/ailina_aniwan_project_1/actions/workflows/hello.yml)
 
 
-# IDS706 First assignment - Ailina Aniwan
+# IDS706 - Mini Project 1 - Ailina Aniwan
+
+## Python GitHub Template
 
 This repository is used for my first Data Engineering assignment in IDS 706. It serves as a template for future assignments in this course.
 
